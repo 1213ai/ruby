@@ -1,0 +1,2 @@
+name = "あい"
+puts name
